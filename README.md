@@ -1,14 +1,16 @@
-### N-club
+# 说明
 
-使用 koa 搭建论坛系统。
+Fork 下来，当做学习 Nodejs 的案例。
 
-在线演示：[https://n-club.herokuapp.com/](https://n-club.herokuapp.com/)。
-教程：[https://nswbmw.github.io/N-club](https://nswbmw.github.io/N-club)。
+* [ __TODO__ ] 1. 给该库加上注释
+* [ __TODO__ ] 2. 以此为范本，书写自己的评论系统
+* [ __TODO__ ] 3. 把评论系统部署到自己的 VPS 上
 
-**本教程亦收录于《Node.js实战（第2季）》第五章，购书链接：**
+其他参考:
 
-当当: [http://product.dangdang.com/23783541.html](http://product.dangdang.com/23783541.html)  
-亚马逊: [http://www.amazon.cn/Node-js%E5%AE%9E%E6%88%98-%E5%90%B4%E4%B8%AD%E9%AA%85/dp/B015RNAU5E/ref=sr_1_3](http://www.amazon.cn/Node-js%E5%AE%9E%E6%88%98-%E5%90%B4%E4%B8%AD%E9%AA%85/dp/B015RNAU5E/ref=sr_1_3)  
-京东: [http://item.jd.com/11778251.html](http://item.jd.com/11778251.html)
+* 在线演示：[https://n-club.herokuapp.com/](https://n-club.herokuapp.com/)。
+* 在线电子书：[https://nswbmw.github.io/N-club](https://nswbmw.github.io/N-club)。
 
-![](http://img31.ddimg.cn/78/15/23783541-1_w_1.jpg)
+**本库的代码收录于《Node.js实战（第2季）》第五章**
+
+btw： 这本书写的一般般，不过第五章的案例还是值得研究的。(就是该库了)
